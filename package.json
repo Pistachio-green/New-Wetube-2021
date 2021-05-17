@@ -1,0 +1,24 @@
+{
+  "name": "new-wetube-2021",
+  "version": "1.0.0",
+  "description": "The best way to watch videos.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pistachio-green/New-Wetube-2021.git"
+  },
+  "author": "TAEHUN LEE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pistachio-green/New-Wetube-2021/issues"
+  },
+  "homepage": "https://github.com/Pistachio-green/New-Wetube-2021#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.2"
+  }
+}
